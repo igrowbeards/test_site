@@ -2,4 +2,4 @@
 title: "Home"
 ---
 
-Hello, world.
+Hello, lovely people.
